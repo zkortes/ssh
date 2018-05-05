@@ -1,0 +1,341 @@
+#
+# Server location
+#
+Host cp1c
+        HostName servername1.c.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp2c
+        HostName servername2.c.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp3c
+        HostName servername3.c.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp4c
+        HostName servername4.c.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp5c
+        HostName servername5.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp6c
+        HostName servername6.c.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp7c
+        HostName servername7.c.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp8c
+        HostName servername8.c.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+#
+# Server location
+#
+Host cp1i
+        HostName servername1.i.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp2i
+        HostName servername2.i.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp9i
+        HostName servername9.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp9i
+        HostName servername9.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp10i
+        HostName servername10.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp11i
+        HostName servername11.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+#
+# Server location
+#
+Host cp1e
+        HostName servername1.e.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp2e
+        HostName servername2.e.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp3e
+        HostName servername3.e.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp1d
+        HostName servername1.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp2d
+        HostName servername2.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp3d
+        HostName servername3.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp4d
+        HostName servername4.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp5d
+        HostName servername5.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp6d
+        HostName servername6.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp7d
+        HostName servername7.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp8d
+        HostName servername8.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp9d
+        HostName servername9.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp10d
+        HostName servername10.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp11d
+        HostName servername11.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp12d
+        HostName servername12.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp13d
+        HostName servername13.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp14d
+        HostName servername14.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp15d
+        HostName servername15.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp17d
+        HostName servername17.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp18d
+        HostName servername18.d.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+#
+# Server location
+#
+Host cp1v
+        HostName servername1.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp2v
+        HostName servername2.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp3v
+        HostName servername3.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp4v
+        HostName servername4.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp5v
+        HostName servername5.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp6v
+        HostName servername6.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp7v
+        HostName servername7.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp8v
+        HostName servername8.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp9v
+        HostName servername9.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp10v
+        HostName servername10.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp11v
+        HostName servername11.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp12v
+        HostName servername12.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp14v
+        HostName servername14.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp15v
+        HostName servername15.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp16v
+        HostName servername16.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp17v
+        HostName servername17.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp18v
+        HostName servername18.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp19v
+        HostName servername19.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp20v
+        HostName servername20.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp21v
+        HostName servername21.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp22v
+        HostName servername22.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp23v
+        HostName servername23.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp24v
+        HostName servername24.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp25v
+        HostName servername25.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp26v
+        HostName servername26.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+#
+# Server location
+#
+Host cp1s
+        HostName servername1.s.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host cp2s
+        HostName servername1.s.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+#
+# Server location
+#
+Host cp1l
+        HostName servername1.l.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+#
+# Server location
+#
+Host isp1v
+        HostName servername1.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
+Host isp2v
+        HostName servername2.v.example.com
+        Port 00
+        User username
+        IdentityFile ~/.ssh/sshprivatekey
